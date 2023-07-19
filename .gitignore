@@ -1,0 +1,5 @@
+*.vscode*
+images/
+*venv*
+*.DS_Store*
+*.csv
